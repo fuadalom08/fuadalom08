@@ -1,6 +1,6 @@
+![web developer](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/458744696_122097247106516953_5398869409790259246_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=BO2dHcAp80cQ7kNvgHq9Qiu&_nc_ht=scontent.fjsr8-1.fna&_nc_gid=Alw166g8vjwiobU3QYpzWRO&oh=00_AYBgIFnd6URDttw7lz7qcd_T4VO8wGyLhvifDt1hBY5Erw&oe=66E0A1D7)
 ### Hi there 👋, I am Fuad
 #### web developer
-![web developer](https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/458744696_122097247106516953_5398869409790259246_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=BO2dHcAp80cQ7kNvgHq9Qiu&_nc_ht=scontent.fjsr8-1.fna&_nc_gid=Alw166g8vjwiobU3QYpzWRO&oh=00_AYBgIFnd6URDttw7lz7qcd_T4VO8wGyLhvifDt1hBY5Erw&oe=66E0A1D7)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
