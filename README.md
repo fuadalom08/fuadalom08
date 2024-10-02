@@ -1,4 +1,4 @@
-https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/458744696_122097247106516953_5398869409790259246_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFi6wh1orZxGHUP5hYb84aOi8OMOiX85F6Lw4w6JfzkXpQusNKG-TtRKQe4SmH7MGbRq0Nv_zsgq0bXMOYt8DXP&_nc_ohc=y0ZmqIgEzB4Q7kNvgEKwDY4&_nc_ht=scontent.fjsr8-1.fna&_nc_gid=AsrQbZ_-wxtpZQ9aYlNkO0L&oh=00_AYAQYD2akm6kfY1_BuQzPzevbl1o5NiLxWJEfQAchGsPRw&oe=6702B097
+(https://scontent.fjsr8-1.fna.fbcdn.net/v/t39.30808-6/458744696_122097247106516953_5398869409790259246_n.jpg?stp=dst-jpg_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFi6wh1orZxGHUP5hYb84aOi8OMOiX85F6Lw4w6JfzkXpQusNKG-TtRKQe4SmH7MGbRq0Nv_zsgq0bXMOYt8DXP&_nc_ohc=y0ZmqIgEzB4Q7kNvgEKwDY4&_nc_ht=scontent.fjsr8-1.fna&_nc_gid=AsrQbZ_-wxtpZQ9aYlNkO0L&oh=00_AYAQYD2akm6kfY1_BuQzPzevbl1o5NiLxWJEfQAchGsPRw&oe=6702B097)
 ### Hi there 👋, I am Fuad
 #### web developer
 
